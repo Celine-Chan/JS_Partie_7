@@ -23,3 +23,22 @@ function buttonBigger() {
         changeText.style.fontSize = "1rem";
     }
 };
+
+// correction :
+
+// let boldText = document.getElementById("boldText");
+// let colorText = document.getElementById("colorText");
+// let widthText = document.getElementById("widthtext");
+// let textTarget = document.getElementById("textTarget");
+
+// function buttonBold() {
+//     textTarget.style.fontWeight = "bold";
+// }
+
+// function buttonColor() {
+//     textTarget.style.color = "purple";
+// }
+
+// function buttonBigger() {
+//     textTarget.style.fontSize = "3rem";
+// }

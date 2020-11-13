@@ -17,3 +17,9 @@ let formNumber = () => {
     alert(result);
 };
 
+// ou
+
+// let formNumber = () => {
+//      alert(firstNumber.value * secondNumber.value);
+// };
+
