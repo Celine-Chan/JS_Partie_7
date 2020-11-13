@@ -5,6 +5,6 @@
 // }
 
 
-function notArrowFunction(name){
+function sentenceName(name){
     `Bonjour, ${name} ! Comment vas-tu ?`;
 }
