@@ -13,7 +13,7 @@
 
 let getStringLength = (string) => {
 
-    let stringLength;
+  let stringLength;
   if(string.length === 1){
     stringLength = 'La chaîne contient qu\'un seul caractère';
   } else {
