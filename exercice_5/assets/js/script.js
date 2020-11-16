@@ -11,7 +11,8 @@
 // }
 
 
-let getStringLength = (string) => {
+let getStringLength = string => {  
+  // pas besoin de parenthése à "string" si il n'y a q'un seul paramètre 
 
   let stringLength;
   if(string.length === 1){
